@@ -11,14 +11,14 @@ const router = express.Router()
   response:
   [
     {
+      "number_of_steps": 3
       "scheme_id": 1,
       "scheme_name": "World Domination",
-      "number_of_steps": 3
     },
     {
+      "number_of_steps": 2
       "scheme_id": 2,
       "scheme_name": "Get Rich Quick",
-      "number_of_steps": 2
     },
     // etc
   ]
